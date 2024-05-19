@@ -1,0 +1,8 @@
+To run this project u should have the folowing libraries.
+If you miss some of them try to use an python package manager to install them.
+Example: pip install langchain.
+
+    - langchain
+    - langchain_community
+    - google-generativeai
+    - chromadb

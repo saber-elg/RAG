@@ -1,0 +1,11 @@
+Ceci est un geuide rapide pour commencer a utiliser ce projet:
+
+    1- Verifiez les dependances contenue dans le fichier dependencies.txt
+    2- Dans le fichier generate_embedings.py changer le path de document a celui de votre fichier pdf
+    3- Lance generate_embedings.py, un dossier appele chroma_db_rag est cree
+    4- Lance test.py, puis interagissez avec le modele.
+
+Nous vous souhaitons une bonne experience!
+
+Realisee par:
+    El Guelta Mohamed-Saber et El Hadifi Soukaina
